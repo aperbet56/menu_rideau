@@ -6,7 +6,7 @@ Création d'un menu rideau en HTML5, CSS3 et JavaScript. Code alternatif en comm
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/menu_rideau/
 
 ## Développez avec
 
