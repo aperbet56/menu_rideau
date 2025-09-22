@@ -1,5 +1,9 @@
 ## MENU RIDEAU
 
+![Design preview for the project](./img/preview.png)
+
+![Design preview for the project](./img/preview-1.png)
+
 ## Le challenge
 
 Création d'un menu rideau en HTML5, CSS3 et JavaScript. Code alternatif en commentaire pour faire apparaître le menu rideau sur le côté.
@@ -8,7 +12,7 @@ Création d'un menu rideau en HTML5, CSS3 et JavaScript. Code alternatif en comm
 
 Lien vers le projet : https://aperbet56.github.io/menu_rideau/
 
-## Développez avec
+## Projet développé avec
 
 - Utilisation des balises sémantiques HTML5
 - CSS3
